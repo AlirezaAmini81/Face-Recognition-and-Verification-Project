@@ -14,17 +14,6 @@ By exploring various configurations for fine-tuning, including freezing/unfreezi
 - **Flexible Training**: Multiple configurations tested for optimal performance.
 - **High Accuracy**: Up to **99.66%** in classification and **98.86%** in verification.
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/username/project-name.git
-   cd project-name
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 ### Training the Model
 1. **Load Pre-trained Model**:
