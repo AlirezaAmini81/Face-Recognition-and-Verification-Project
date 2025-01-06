@@ -64,9 +64,4 @@ By exploring various configurations for fine-tuning, including freezing/unfreezi
 - **Libraries**: PyTorch, NumPy, Matplotlib
 - **Model Architecture**: Pre-trained InceptionResNetV1
 
-## Acknowledgments
-This project is inspired by modern advancements in face recognition and verification, and thanks to the support of contributors and the open-source community.
-
-## License
-This project is licensed under the MIT License. For more details, refer to the LICENSE file in the repository.
 
